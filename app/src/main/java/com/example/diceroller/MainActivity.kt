@@ -1,4 +1,4 @@
-package com.example.myfirstapplication
+package com.example.diceroller
 
 import android.content.Context
 import android.hardware.Sensor
